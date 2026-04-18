@@ -1,5 +1,5 @@
 # Git CHEAT SHEET
-## git clone - CLONING A REPO 
+## GIT CLONE - CLONING A REPO 
 | Command | What It Does |
 |---------|--------------|
 | `git log --oneline` | Shows the log of commits made locally regardless of push status. |
@@ -7,7 +7,7 @@
 **Example** `9465116 (HEAD -> main, origin/main, origin/HEAD) Initial commit`
 **Key Concept:** `Key Concept: origin` is the nickname my PC gives the GitHub copy of my repo.
 
-## git push
+## GIT PUSH
 | Command | What It Does |
 |---------|--------------|
 |`Golden Rule` | When done working, add, commit, and push, LAST before closing down for the day. |
@@ -15,13 +15,13 @@
 | `git commit -m "message"` | Labels the changes (seals the box and puts the shipping label on it). |
 | `git push` | Sends the local changes to GitHub (the only command that talks to the internet). |
 
-## git pull
+## GIT PULL
 | Command | What It Does |
 |---------|--------------|
 |`Golden Rule` | When sitting down to at a machine, git pull, FIRST before anything else. |
 | `git pull` | Reaches into origin(GitHub) and downloads any new commits on GitHub but not on my local machine. |
 
-## git init - CREATING A REPO FROM SCRATCH
+## GIT INIT - CREATING A REPO FROM SCRATCH
 | Command | What It Does |
 |---------|--------------|
 | `git init` | Creates a brand new, empty Git repo in the designated folder and makes a hidden .git folder. |
