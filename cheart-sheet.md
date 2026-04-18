@@ -6,6 +6,7 @@
 | `git remote -v` | Points to the URL for fetching and pushing. |
 
 **Example** `9465116 (HEAD -> main, origin/main, origin/HEAD) Initial commit`
+
 **Key Concept:** `Key Concept: origin` is the nickname my PC gives the GitHub copy of my repo.
 
 ## GIT PUSH
