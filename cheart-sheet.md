@@ -19,13 +19,13 @@
 | Command | What It Does |
 |---------|--------------|
 |`Golden Rule` | When sitting down to at a machine, git pull, FIRST before anything else. |
-| `git pull` | 
+| `git pull` | Reaches into origin(GitHub) and downloads any new commits on GitHub but not on my local machine. |
 
 ## git init - CREATING A REPO FROM SCRATCH
 | Command | What It Does |
 |---------|--------------|
-| `git init` | Creates a brand new, empty Git repo in the designated folder and makes a hidden .git folder |
-| `git remote add origin <URL>` | Manually sets up the connection to GitHub that clone does automatically |
+| `git init` | Creates a brand new, empty Git repo in the designated folder and makes a hidden .git folder. |
+| `git remote add origin <URL>` | Manually sets up the connection to GitHub that clone does automatically. |
 
 ### git init Workflow
 1. `mkdir C:\Dev\School\NewProject`
